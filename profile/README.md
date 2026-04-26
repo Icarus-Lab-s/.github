@@ -1,9 +1,11 @@
 # Icarus Lab 
-<img width="4050" height="797" alt="Icarus faixa" src="https://github.com/user-attachments/assets/1ea49640-3fa4-462b-8f52-19166c9e5a2f" />
 Bem-vindo a Icarus. Somos uma organização dedicada ao desenvolvimento dos APIs (Aprendizagem por Projetos Integradores), realizados durante os semestres do curso de Gestão de Produção Industrial (GPI), da FATEC Profº Jessen Vidal (São José dos Campos, SP).
+<img width="4050" height="797" alt="Icarus faixa" src="https://github.com/user-attachments/assets/60ea2d14-819c-460f-a8fb-ac3f7d93e347" />
 
 ## Identidade Visual
 Assim como Ícaro buscava alcançar novos horizontes, nossa consultoria atua para que empresas cresçam com estratégia, controle e sustentabilidade, sem riscos desnecessários.
+<img width="914" height="593" alt="Icarus IDV" src="https://github.com/user-attachments/assets/76a120f5-0bdb-4e84-ade7-9903f4a7a15c" style="background:transparent;" />
+
 
 ## Sobre
 
