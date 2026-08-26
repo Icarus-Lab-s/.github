@@ -21,7 +21,7 @@ Abaixo você pode visualizar o que fizemos e o que estamos desenvolvendo no mome
 
 <div align="left">
 
-| LinkedIn & GitHub   | Integrantes | Painel de Mapeamento do Ecossistema industrial Regional |
+| LinkedIn & GitHub   | Integrantes | Painel de Mapeamento do Ecossistema industrial Regional | Observatorio | 
 |--------------------|--------------------------------------|------------------|------------------|
 | <a href="https://www.linkedin.com/in/dantegabriel/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="https://github.com/DanteCry0" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Dante Gabriel |Scrum Master|
 | <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>   | Isaac Oliveira | Product Owner|
